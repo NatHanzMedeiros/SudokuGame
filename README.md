@@ -1,8 +1,8 @@
-Projeto: SudokuGame.java <br />
-Nome: Nathan Medeiros Cristiano<br />
-Data: 07/2025<br />
-Disciplina: Pensamento Computacional e Algoritmos<br />
-Professor: Ramon Mayor Martins<br />
+**Projeto:** SudokuGame.java <br />
+**Nome:** Nathan Medeiros Cristiano<br />
+**Data:** 07/2025<br />
+**Disciplina:** Pensamento Computacional e Algoritmos<br />
+**Professor:** Ramon Mayor Martins<br />
 
 1.
 **INTRODUÇÃO AO PROJETO** <br /> 
